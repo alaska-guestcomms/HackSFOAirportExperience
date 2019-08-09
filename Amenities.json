@@ -1,28 +1,61 @@
-[{
+[
+	{
 		"id": 36,
 		"name": "Parking",
 		"description": "Parking",
 		"status": true,
-		"keywords": ["Parking", "ground transportation"],
-		"locations": [{
+		"keywords": [
+			"Parking",
+			"ground transportation"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [7006, 7007, 7008, 8082, 19431]
-			}, {
+				"waypointIds": [
+					7006,
+					7007,
+					7008,
+					8082,
+					19431
+				]
+			},
+			{
 				"mapId": 52,
-				"waypointIds": [7643, 7644, 8080]
-			}, {
+				"waypointIds": [
+					7643,
+					7644,
+					8080
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7288, 7289, 7290, 8084]
-			}, {
+				"waypointIds": [
+					7288,
+					7289,
+					7290,
+					8084
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7398, 7399, 7400, 8083]
-			}, {
+				"waypointIds": [
+					7398,
+					7399,
+					7400,
+					8083
+				]
+			},
+			{
 				"mapId": 60,
-				"waypointIds": [7961, 8085]
+				"waypointIds": [
+					7961,
+					8085
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_36_60760a55-d89d-4c1d-baeb-441cc97f3840_en-US.svg"
@@ -33,7 +66,12 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"52": true,
@@ -41,25 +79,49 @@
 			"59": true,
 			"60": true
 		}
-	}, {
+	},
+	{
 		"id": 38,
 		"name": "Nurseries",
 		"description": "Nurseries",
 		"status": true,
-		"keywords": ["Babies", "Nursery", "amenity"],
-		"locations": [{
+		"keywords": [
+			"Babies",
+			"Nursery",
+			"amenity"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6414, 6442, 6463, 6525, 6534, 6779, 10426, 11484, 11488]
-			}, {
+				"waypointIds": [
+					6414,
+					6442,
+					6463,
+					6525,
+					6534,
+					6779,
+					10426,
+					11484,
+					11488
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7732, 10432]
-			}, {
+				"waypointIds": [
+					7732,
+					10432
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7366]
+				"waypointIds": [
+					7366
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_38_a66db89b-7c09-4d00-9eb7-2b0e0dde324a_en-US.svg"
@@ -70,28 +132,53 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 41,
 		"name": "Mailboxes",
 		"description": "Mailing",
 		"status": true,
-		"keywords": ["Mail", "Mailbox", "Postal", "amenity"],
-		"locations": [{
+		"keywords": [
+			"Mail",
+			"Mailbox",
+			"Postal",
+			"amenity"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6369, 8049, 9167, 9186, 9188]
-			}, {
+				"waypointIds": [
+					6369,
+					8049,
+					9167,
+					9186,
+					9188
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [8017, 8029, 9195, 9197]
+				"waypointIds": [
+					8017,
+					8029,
+					9195,
+					9197
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_41_f91f5bbe-39e9-48ea-bb04-c74cbad46afe_en-US.svg"
@@ -102,27 +189,50 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 42,
 		"name": "Security Checkpoint",
 		"description": "Security Checkpoint",
 		"status": true,
-		"keywords": ["Checkpoint", "Security"],
-		"locations": [{
+		"keywords": [
+			"Checkpoint",
+			"Security"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6964, 6972, 7663, 7665, 7666, 7667, 323910]
-			}, {
+				"waypointIds": [
+					6964,
+					6972,
+					7663,
+					7665,
+					7666,
+					7667,
+					323910
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7670, 7672]
+				"waypointIds": [
+					7670,
+					7672
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_42_47417f51-4c2c-4c1a-aecf-95bc6d651621_en-US.svg"
@@ -133,30 +243,92 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 48,
 		"name": "Hydration Station",
 		"description": "Water Station",
 		"status": true,
-		"keywords": ["Hydration", "Water", "amenity", "water fountain"],
-		"locations": [{
+		"keywords": [
+			"Hydration",
+			"Water",
+			"amenity",
+			"water fountain"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6396, 6399, 6416, 6442, 6491, 6497, 6534, 6711, 6718, 6780, 6784, 6795, 6833, 6923, 6928, 7032, 8045, 8315, 8330, 9159, 9168, 18350, 18439, 19487, 19512, 19534, 19583, 19597]
-			}, {
+				"waypointIds": [
+					6396,
+					6399,
+					6416,
+					6442,
+					6491,
+					6497,
+					6534,
+					6711,
+					6718,
+					6780,
+					6784,
+					6795,
+					6833,
+					6923,
+					6928,
+					7032,
+					8045,
+					8315,
+					8330,
+					9159,
+					9168,
+					18350,
+					18439,
+					19487,
+					19512,
+					19534,
+					19583,
+					19597
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7723, 7844, 7868, 18393, 19778, 19913]
-			}, {
+				"waypointIds": [
+					7723,
+					7844,
+					7868,
+					18393,
+					19778,
+					19913
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7343, 7371, 7413, 7537, 8034, 10427, 18857, 19676, 19720, 19726]
+				"waypointIds": [
+					7343,
+					7371,
+					7413,
+					7537,
+					8034,
+					10427,
+					18857,
+					19676,
+					19720,
+					19726
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_48_c6fe48d9-1354-4564-8cde-2967015c817b_en-US.svg"
@@ -167,31 +339,65 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 49,
 		"name": "Information Booth",
 		"description": "Information",
 		"status": true,
-		"keywords": ["Direction", "Information", "Inquiry", "Question", "amenity", "customer service", "help"],
-		"locations": [{
+		"keywords": [
+			"Direction",
+			"Information",
+			"Inquiry",
+			"Question",
+			"amenity",
+			"customer service",
+			"help"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [8046, 8053, 8059, 9145, 9147]
-			}, {
+				"waypointIds": [
+					8046,
+					8053,
+					8059,
+					9145,
+					9147
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [9140, 9144, 18378]
-			}, {
+				"waypointIds": [
+					9140,
+					9144,
+					18378
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [8011, 8019, 8021, 8023, 8027]
+				"waypointIds": [
+					8011,
+					8019,
+					8021,
+					8023,
+					8027
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_49_3f5ea414-c718-4af8-981c-d9abc1c60057_en-US.svg"
@@ -202,31 +408,95 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 67,
 		"name": "Female Restroom",
 		"description": "Female Restroom",
 		"status": true,
-		"keywords": ["Female Restroom", "amenity", "bano", "bathroom", "bathrooms", "lavatory", "toliet", "washroom"],
-		"locations": [{
+		"keywords": [
+			"Female Restroom",
+			"amenity",
+			"bano",
+			"bathroom",
+			"bathrooms",
+			"lavatory",
+			"toliet",
+			"washroom"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6395, 6406, 6545, 6562, 6752, 6777, 6814, 6835, 6874, 6888, 6915, 6931, 6948, 6952, 7012, 7036, 9165, 9169, 9175, 9180, 9183, 11486, 11488, 18440, 18730, 323080, 323101]
-			}, {
+				"waypointIds": [
+					6395,
+					6406,
+					6545,
+					6562,
+					6752,
+					6777,
+					6814,
+					6835,
+					6874,
+					6888,
+					6915,
+					6931,
+					6948,
+					6952,
+					7012,
+					7036,
+					9165,
+					9169,
+					9175,
+					9180,
+					9183,
+					11486,
+					11488,
+					18440,
+					18730,
+					323080,
+					323101
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7734, 7755, 7792, 7845, 7869]
-			}, {
+				"waypointIds": [
+					7734,
+					7755,
+					7792,
+					7845,
+					7869
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7323, 7475, 7533, 7565, 7948, 9200, 9202, 10429, 10590, 10591]
+				"waypointIds": [
+					7323,
+					7475,
+					7533,
+					7565,
+					7948,
+					9200,
+					9202,
+					10429,
+					10590,
+					10591
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_67_77ef18fd-ff9d-4272-9549-722b8d7f423f_en-US.svg"
@@ -237,31 +507,94 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 68,
 		"name": "Male Restroom",
 		"description": "Male Restroom",
 		"status": true,
-		"keywords": ["Male Restroom", "amenity", "bano", "bathroom", "bathrooms", "lavatory", "toliet", "washroom"],
-		"locations": [{
+		"keywords": [
+			"Male Restroom",
+			"amenity",
+			"bano",
+			"bathroom",
+			"bathrooms",
+			"lavatory",
+			"toliet",
+			"washroom"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6471, 6522, 6676, 6747, 6773, 6815, 6820, 6834, 6876, 6890, 6916, 6932, 6946, 6950, 7010, 7034, 7935, 9158, 9163, 9173, 9178, 9179, 9184, 18349, 18354, 323081]
-			}, {
+				"waypointIds": [
+					6471,
+					6522,
+					6676,
+					6747,
+					6773,
+					6815,
+					6820,
+					6834,
+					6876,
+					6890,
+					6916,
+					6932,
+					6946,
+					6950,
+					7010,
+					7034,
+					7935,
+					9158,
+					9163,
+					9173,
+					9178,
+					9179,
+					9184,
+					18349,
+					18354,
+					323081
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7736, 7751, 7793, 7854, 7867]
-			}, {
+				"waypointIds": [
+					7736,
+					7751,
+					7793,
+					7854,
+					7867
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7325, 7474, 7504, 7531, 7564, 7946, 10428, 10589, 10593, 18858]
+				"waypointIds": [
+					7325,
+					7474,
+					7504,
+					7531,
+					7564,
+					7946,
+					10428,
+					10589,
+					10593,
+					18858
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_68_988ed9cc-a489-4bc5-862c-394382b1092e_en-US.svg"
@@ -272,31 +605,66 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 69,
 		"name": "Companion Restroom",
 		"description": "Companion Restroom",
 		"status": true,
-		"keywords": ["Companion Restroom", "amenity", "bathroom", "bathrooms", "gender neutral", "transgender", "washroom"],
-		"locations": [{
+		"keywords": [
+			"Companion Restroom",
+			"amenity",
+			"bathroom",
+			"bathrooms",
+			"gender neutral",
+			"transgender",
+			"washroom"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6411, 6414, 6440, 6492, 6745, 6775, 9171, 11482, 18348]
-			}, {
+				"waypointIds": [
+					6411,
+					6414,
+					6440,
+					6492,
+					6745,
+					6775,
+					9171,
+					11482,
+					18348
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7726, 7738]
-			}, {
+				"waypointIds": [
+					7726,
+					7738
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7323, 7946, 10431]
+				"waypointIds": [
+					7323,
+					7946,
+					10431
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_69_673b0c59-297c-40d2-8283-945e35f940ce_en-US.svg"
@@ -307,31 +675,101 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 120,
 		"name": "AED",
 		"description": "AED",
 		"status": true,
-		"keywords": ["aed", "amenity", "automated external defibrillators", "heart attack"],
-		"locations": [{
+		"keywords": [
+			"aed",
+			"amenity",
+			"automated external defibrillators",
+			"heart attack"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6424, 6435, 6554, 6825, 6826, 6944, 6956, 6962, 6968, 6971, 7064, 7120, 7237, 7243, 7269, 7659, 7943, 8041, 8045, 8056, 8283, 8286, 8318, 18357, 18358, 18371, 18441, 18840, 18842, 18854]
-			}, {
+				"waypointIds": [
+					6424,
+					6435,
+					6554,
+					6825,
+					6826,
+					6944,
+					6956,
+					6962,
+					6968,
+					6971,
+					7064,
+					7120,
+					7237,
+					7243,
+					7269,
+					7659,
+					7943,
+					8041,
+					8045,
+					8056,
+					8283,
+					8286,
+					8318,
+					18357,
+					18358,
+					18371,
+					18441,
+					18840,
+					18842,
+					18854
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7723, 7744, 7779, 7785, 7846, 7886, 7892]
-			}, {
+				"waypointIds": [
+					7723,
+					7744,
+					7779,
+					7785,
+					7846,
+					7886,
+					7892
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7395, 7418, 7442, 7466, 7642, 7682, 7690, 8021, 8023, 8113, 8358, 8368, 9197, 18312, 18843]
+				"waypointIds": [
+					7395,
+					7418,
+					7442,
+					7466,
+					7642,
+					7682,
+					7690,
+					8021,
+					8023,
+					8113,
+					8358,
+					8368,
+					9197,
+					18312,
+					18843
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_120_e2bd9bda-724c-420b-830d-4206a2c5a1a8_en-US.svg"
@@ -342,31 +780,96 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 121,
 		"name": "TTY",
 		"description": "TTY",
 		"status": true,
-		"keywords": ["accessible", "ada", "amenity", "deaf", "hearing impaired", "teleprinter", "tty"],
-		"locations": [{
+		"keywords": [
+			"accessible",
+			"ada",
+			"amenity",
+			"deaf",
+			"hearing impaired",
+			"teleprinter",
+			"tty"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6415, 6424, 6427, 6441, 6478, 6527, 6537, 6580, 6684, 6698, 6922, 6924, 6933, 8041, 8051, 8318, 8329, 8332, 9145, 9147, 18346, 18357, 18441, 18448, 18850, 18853, 18854]
-			}, {
+				"waypointIds": [
+					6415,
+					6424,
+					6427,
+					6441,
+					6478,
+					6527,
+					6537,
+					6580,
+					6684,
+					6698,
+					6922,
+					6924,
+					6933,
+					8041,
+					8051,
+					8318,
+					8329,
+					8332,
+					9145,
+					9147,
+					18346,
+					18357,
+					18441,
+					18448,
+					18850,
+					18853,
+					18854
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7746, 7776, 7780, 7814, 7886, 7893, 9142]
-			}, {
+				"waypointIds": [
+					7746,
+					7776,
+					7780,
+					7814,
+					7886,
+					7893,
+					9142
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7336, 7350, 7397, 7413, 7417, 7425, 7469, 18322, 18434, 18852]
+				"waypointIds": [
+					7336,
+					7350,
+					7397,
+					7413,
+					7417,
+					7425,
+					7469,
+					18322,
+					18434,
+					18852
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_121_6bcd1e4a-6857-4849-9d36-a85d3bf28984_en-US.svg"
@@ -377,31 +880,59 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 124,
 		"name": "SFO Museum Exhibits",
 		"description": "SFO Museum Exhibits",
 		"status": true,
-		"keywords": ["amenity", "sfo museum exhibits"],
-		"locations": [{
+		"keywords": [
+			"amenity",
+			"sfo museum exhibits"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6455, 6735, 6847, 7933, 18836, 18837, 18842]
-			}, {
+				"waypointIds": [
+					6455,
+					6735,
+					6847,
+					7933,
+					18836,
+					18837,
+					18842
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7784]
-			}, {
+				"waypointIds": [
+					7784
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [18844, 18845, 18848, 18849]
+				"waypointIds": [
+					18844,
+					18845,
+					18848,
+					18849
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_124_94e36025-33fc-4c12-acdf-983c65726fda_en-US.svg"
@@ -412,31 +943,84 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 125,
 		"name": "ATM",
 		"description": "ATM",
 		"status": true,
-		"keywords": ["amenity", "atm", "bank", "bank of america", "cash", "money"],
-		"locations": [{
+		"keywords": [
+			"amenity",
+			"atm",
+			"bank",
+			"bank of america",
+			"cash",
+			"money"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6527, 6533, 6540, 6578, 6691, 7938, 8041, 8043, 8045, 8048, 8050, 8051, 8056, 8327, 8347, 18460, 18840, 18841, 19549, 323073, 323076]
-			}, {
+				"waypointIds": [
+					6527,
+					6533,
+					6540,
+					6578,
+					6691,
+					7938,
+					8041,
+					8043,
+					8045,
+					8048,
+					8050,
+					8051,
+					8056,
+					8327,
+					8347,
+					18460,
+					18840,
+					18841,
+					19549,
+					323073,
+					323076
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7784, 7836, 7844, 9140, 9142, 19917]
-			}, {
+				"waypointIds": [
+					7784,
+					7836,
+					7844,
+					9140,
+					9142,
+					19917
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7481, 7517, 8012, 8034, 8037, 18312]
+				"waypointIds": [
+					7481,
+					7517,
+					8012,
+					8034,
+					8037,
+					18312
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_125_4659d06e-f6de-456b-b37b-a44f6864e7ef_en-US.svg"
@@ -447,34 +1031,419 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 146,
 		"name": "Courtesy Phone",
 		"description": "Courtesy Phone",
 		"status": true,
-		"keywords": ["amenity", "courtesy phone"],
-		"locations": [{
+		"keywords": [
+			"amenity",
+			"courtesy phone"
+		],
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [6460, 6527, 6537, 6689, 6691, 6693, 6698, 6755, 6778, 6816, 6831, 7155, 7212, 7253, 7714, 9168, 9188, 18335, 18442, 18955, 19441, 19442, 19444, 19445, 19446, 19448, 19449, 19450, 19451, 19452, 19453, 19456, 19459, 19460, 19463, 19466, 19468, 19470, 19471, 19473, 19475, 19476, 19477, 19478, 19480, 19481, 19483, 19484, 19488, 19490, 19491, 19493, 19495, 19497, 19499, 19500, 19503, 19505, 19506, 19507, 19508, 19509, 19510, 19512, 19514, 19516, 19517, 19520, 19521, 19523, 19525, 19527, 19529, 19530, 19532, 19533, 19534, 19540, 19545, 19547, 19548, 19549, 19550, 19552, 19553, 19556, 19558, 19559, 19562, 19564, 19565, 19566, 19568, 19570, 19571, 19572, 19573, 19575, 19576, 19577, 19579, 19581, 19582, 19583, 19586, 19588, 19589, 19590, 19591, 19592, 19594, 19597, 19599, 19600, 19602, 19603, 19605, 19607, 19609, 19611, 19612, 19613, 19614, 19615, 19616, 19618, 19620, 19622, 19624, 19625, 19628, 19629, 19630, 19631, 19632, 19633, 19634, 19635, 19636, 19637, 19830]
-			}, {
+				"waypointIds": [
+					6460,
+					6527,
+					6537,
+					6689,
+					6691,
+					6693,
+					6698,
+					6755,
+					6778,
+					6816,
+					6831,
+					7155,
+					7212,
+					7253,
+					7714,
+					9168,
+					9188,
+					18335,
+					18442,
+					18955,
+					19441,
+					19442,
+					19444,
+					19445,
+					19446,
+					19448,
+					19449,
+					19450,
+					19451,
+					19452,
+					19453,
+					19456,
+					19459,
+					19460,
+					19463,
+					19466,
+					19468,
+					19470,
+					19471,
+					19473,
+					19475,
+					19476,
+					19477,
+					19478,
+					19480,
+					19481,
+					19483,
+					19484,
+					19488,
+					19490,
+					19491,
+					19493,
+					19495,
+					19497,
+					19499,
+					19500,
+					19503,
+					19505,
+					19506,
+					19507,
+					19508,
+					19509,
+					19510,
+					19512,
+					19514,
+					19516,
+					19517,
+					19520,
+					19521,
+					19523,
+					19525,
+					19527,
+					19529,
+					19530,
+					19532,
+					19533,
+					19534,
+					19540,
+					19545,
+					19547,
+					19548,
+					19549,
+					19550,
+					19552,
+					19553,
+					19556,
+					19558,
+					19559,
+					19562,
+					19564,
+					19565,
+					19566,
+					19568,
+					19570,
+					19571,
+					19572,
+					19573,
+					19575,
+					19576,
+					19577,
+					19579,
+					19581,
+					19582,
+					19583,
+					19586,
+					19588,
+					19589,
+					19590,
+					19591,
+					19592,
+					19594,
+					19597,
+					19599,
+					19600,
+					19602,
+					19603,
+					19605,
+					19607,
+					19609,
+					19611,
+					19612,
+					19613,
+					19614,
+					19615,
+					19616,
+					19618,
+					19620,
+					19622,
+					19624,
+					19625,
+					19628,
+					19629,
+					19630,
+					19631,
+					19632,
+					19633,
+					19634,
+					19635,
+					19636,
+					19637,
+					19830
+				]
+			},
+			{
 				"mapId": 52,
-				"waypointIds": [19921, 19922, 19923]
-			}, {
+				"waypointIds": [
+					19921,
+					19922,
+					19923
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [7722, 7799, 7893, 9140, 9142, 18381, 18395, 19749, 19750, 19753, 19754, 19755, 19757, 19758, 19760, 19761, 19762, 19763, 19764, 19766, 19768, 19770, 19772, 19775, 19777, 19778, 19780, 19781, 19782, 19783, 19784, 19785, 19786, 19787, 19788, 19789, 19790, 19791, 19792, 19794, 19796, 19798, 19800, 19801, 19802, 19803, 19804, 19805, 19806, 19807, 19808, 19809, 19810, 19811, 19812, 19814, 19815, 19816, 19817, 19818, 19819, 19820, 19821, 19823, 19824, 19825, 19826, 19827, 19828, 19831, 19832, 19837, 19838, 19839, 19840, 19842, 19843, 19844, 19845, 19846, 19847, 19848, 19849, 19851, 19852, 19853, 19854, 19855, 19856, 19857, 19858, 19859, 19860, 19861, 19862, 19863, 19864, 19865, 19867, 19869, 19870, 19872, 19874, 19875, 19876, 19877, 19880, 19881, 19882, 19883, 19884, 19885, 19886, 19887, 19888, 19889, 19890, 19891, 19892, 19893, 19894, 19895, 19896, 19897, 19898, 19899, 19900, 19901, 19902, 19903, 19904, 19905, 19906, 19907, 19908, 19909, 19910, 19912, 19914, 19915, 19916, 19917, 19918, 19919]
-			}, {
+				"waypointIds": [
+					7722,
+					7799,
+					7893,
+					9140,
+					9142,
+					18381,
+					18395,
+					19749,
+					19750,
+					19753,
+					19754,
+					19755,
+					19757,
+					19758,
+					19760,
+					19761,
+					19762,
+					19763,
+					19764,
+					19766,
+					19768,
+					19770,
+					19772,
+					19775,
+					19777,
+					19778,
+					19780,
+					19781,
+					19782,
+					19783,
+					19784,
+					19785,
+					19786,
+					19787,
+					19788,
+					19789,
+					19790,
+					19791,
+					19792,
+					19794,
+					19796,
+					19798,
+					19800,
+					19801,
+					19802,
+					19803,
+					19804,
+					19805,
+					19806,
+					19807,
+					19808,
+					19809,
+					19810,
+					19811,
+					19812,
+					19814,
+					19815,
+					19816,
+					19817,
+					19818,
+					19819,
+					19820,
+					19821,
+					19823,
+					19824,
+					19825,
+					19826,
+					19827,
+					19828,
+					19831,
+					19832,
+					19837,
+					19838,
+					19839,
+					19840,
+					19842,
+					19843,
+					19844,
+					19845,
+					19846,
+					19847,
+					19848,
+					19849,
+					19851,
+					19852,
+					19853,
+					19854,
+					19855,
+					19856,
+					19857,
+					19858,
+					19859,
+					19860,
+					19861,
+					19862,
+					19863,
+					19864,
+					19865,
+					19867,
+					19869,
+					19870,
+					19872,
+					19874,
+					19875,
+					19876,
+					19877,
+					19880,
+					19881,
+					19882,
+					19883,
+					19884,
+					19885,
+					19886,
+					19887,
+					19888,
+					19889,
+					19890,
+					19891,
+					19892,
+					19893,
+					19894,
+					19895,
+					19896,
+					19897,
+					19898,
+					19899,
+					19900,
+					19901,
+					19902,
+					19903,
+					19904,
+					19905,
+					19906,
+					19907,
+					19908,
+					19909,
+					19910,
+					19912,
+					19914,
+					19915,
+					19916,
+					19917,
+					19918,
+					19919
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [7307, 7354, 7374, 7397, 7414, 7440, 7465, 7618, 8014, 8018, 8019, 8023, 8025, 8027, 8034, 8035, 18434, 19640, 19641, 19642, 19643, 19644, 19645, 19646, 19649, 19652, 19654, 19655, 19657, 19658, 19660, 19663, 19667, 19670, 19672, 19673, 19675, 19676, 19678, 19680, 19681, 19683, 19686, 19688, 19689, 19690, 19691, 19693, 19695, 19696, 19698, 19699, 19701, 19702, 19704, 19706, 19708, 19710, 19712, 19714, 19715, 19718, 19720, 19722, 19724, 19726, 19728, 19729, 19731, 19732, 19735, 19738, 19740, 19741, 19742, 19744, 19746, 19747, 19748]
+				"waypointIds": [
+					7307,
+					7354,
+					7374,
+					7397,
+					7414,
+					7440,
+					7465,
+					7618,
+					8014,
+					8018,
+					8019,
+					8023,
+					8025,
+					8027,
+					8034,
+					8035,
+					18434,
+					19640,
+					19641,
+					19642,
+					19643,
+					19644,
+					19645,
+					19646,
+					19649,
+					19652,
+					19654,
+					19655,
+					19657,
+					19658,
+					19660,
+					19663,
+					19667,
+					19670,
+					19672,
+					19673,
+					19675,
+					19676,
+					19678,
+					19680,
+					19681,
+					19683,
+					19686,
+					19688,
+					19689,
+					19690,
+					19691,
+					19693,
+					19695,
+					19696,
+					19698,
+					19699,
+					19701,
+					19702,
+					19704,
+					19706,
+					19708,
+					19710,
+					19712,
+					19714,
+					19715,
+					19718,
+					19720,
+					19722,
+					19724,
+					19726,
+					19728,
+					19729,
+					19731,
+					19732,
+					19735,
+					19738,
+					19740,
+					19741,
+					19742,
+					19744,
+					19746,
+					19747,
+					19748
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_146_679beeda-3a8c-4735-bc09-5b7c489af659_en-US.svg"
@@ -485,26 +1454,43 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"14": true,
 			"52": true,
 			"53": true,
 			"59": true
 		}
-	}, {
+	},
+	{
 		"id": 148,
 		"name": "Charter Operators",
 		"description": "",
 		"status": true,
-		"keywords": ["charter buses", "charter operators"],
-		"locations": [{
+		"keywords": [
+			"charter buses",
+			"charter operators"
+		],
+		"locations": [
+			{
 				"mapId": 53,
-				"waypointIds": [19935, 19937, 19941, 19942, 19943]
+				"waypointIds": [
+					19935,
+					19937,
+					19941,
+					19942,
+					19943
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_148_cd7b8e93-bda6-47c3-831a-dc805a1837e8_en-US.svg"
@@ -515,26 +1501,45 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"53": true
 		}
-	}, {
+	},
+	{
 		"id": 149,
 		"name": "Bike Parking",
 		"description": "Bike Parking",
 		"status": true,
-		"keywords": ["bike parking", "ground transportation"],
-		"locations": [{
+		"keywords": [
+			"bike parking",
+			"ground transportation"
+		],
+		"locations": [
+			{
 				"mapId": 52,
-				"waypointIds": [19929]
-			}, {
+				"waypointIds": [
+					19929
+				]
+			},
+			{
 				"mapId": 53,
-				"waypointIds": [19432, 19926, 19927, 19928]
+				"waypointIds": [
+					19432,
+					19926,
+					19927,
+					19928
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_149_85208472-fa38-492c-985e-932cfba14dd8_en-US.svg"
@@ -545,25 +1550,40 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 50, 50],
+		"viewbox": [
+			0,
+			0,
+			50,
+			50
+		],
 		"_mappedPoints": {
 			"52": true,
 			"53": true
 		}
-	}, {
+	},
+	{
 		"id": 346,
 		"name": "SamTrans Bus Stops",
 		"description": "At the terminals, SamTrans buses stop at:\n\nTerminal 2: Arrivals/Baggage Claim Level, center island adjacent to Courtyard 2\n\nTerminal 3: Arrivals/Baggage Claim Level, curbside adjacent to Courtyard 4\n\nInternational Terminal: Level 1 at Courtyard A and curbside adjacent to Courtyard G",
 		"status": true,
 		"externalId": "1",
-		"keywords": ["ground transportation", "public transportation"],
-		"locations": [{
+		"keywords": [
+			"ground transportation",
+			"public transportation"
+		],
+		"locations": [
+			{
 				"mapId": 53,
-				"waypointIds": [19930, 19937, 19942]
+				"waypointIds": [
+					19930,
+					19937,
+					19942
+				]
 			}
 		],
 		"uris": {
-			"items": [{
+			"items": [
+				{
 					"resourceType": "svg-icon",
 					"mimeType": "image/svg+xml",
 					"path": "https://jsappprodreleaseblob.blob.core.windows.net/js-prod40/components/amenity/amenity_346_f37d8912-3d7c-470b-a2f3-33f8168f0b5f_en-US.svg"
@@ -574,22 +1594,36 @@
 		"svgTree": {
 			"location": null
 		},
-		"viewbox": [0, 0, 53.96, 54],
+		"viewbox": [
+			0,
+			0,
+			53.96,
+			54
+		],
 		"_mappedPoints": {
 			"53": true
 		}
-	}, {
+	},
+	{
 		"id": 375,
 		"name": "Hotel Shuttles",
 		"description": "Courtesy shuttles to participating airport-area hotels are located at the Hotel Courtesy Shuttle zones on the center island of the Departures/Ticketing Level roadway at all terminals. Phones to contact the hotels are available in the shelters at each zone. Please note: these shuttles service only participating airport-area hotels, and do not provide service to San Francisco or other regions of the Bay Area.",
 		"status": true,
 		"keywords": [],
-		"locations": [{
+		"locations": [
+			{
 				"mapId": 14,
-				"waypointIds": [19624, 19938, 20106]
-			}, {
+				"waypointIds": [
+					19624,
+					19938,
+					20106
+				]
+			},
+			{
 				"mapId": 59,
-				"waypointIds": [8023]
+				"waypointIds": [
+					8023
+				]
 			}
 		],
 		"uris": {
